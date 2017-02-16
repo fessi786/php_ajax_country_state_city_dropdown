@@ -1,7 +1,7 @@
 <?php
 /*
 * Author: Faisal Maqsood
-* Website: iamrohit.in
+
 * Version: 0.0.1
 * Date: 25-04-2015
 * App Name: Php+ajax country state city dropdown
