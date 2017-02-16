@@ -1,7 +1,6 @@
 <?php
 /*
-* Author: Rohit Kumar
-* Website: iamrohit.in
+* Author: Faisal Maqsood
 * Version: 0.0.1
 * Date: 25-04-2015
 * App Name: Php+ajax country state city dropdown
