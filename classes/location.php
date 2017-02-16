@@ -1,6 +1,6 @@
 <?php
 /*
-* Author: Rohit Kumar
+* Author: Faisal Maqsood
 * Website: iamrohit.in
 * Version: 0.0.1
 * Date: 25-04-2015
